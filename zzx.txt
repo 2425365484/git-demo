@@ -12,5 +12,5 @@ Hello zzx! Hello git!
 Hello zzx! Hello git!
 Hello zzx! Hello git!
 Hello zzx! Hello git!
-Hello zzx! Hello git!
+Hello zzx! Hello git! master text 
 Hello zzx! Hello git!
